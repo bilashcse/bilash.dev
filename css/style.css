@@ -1698,6 +1698,9 @@ h6 {
 
 /* Personal Profile Area css
 ============================================================================================ */
+img {
+  border-radius: 8px;
+}
 .profile_area .col-lg-7 {
   vertical-align: middle;
   align-self: center; }
